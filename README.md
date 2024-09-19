@@ -1,5 +1,12 @@
 # kickstart.nvim
 
+## Updates
+
+Required to prevent errors when opening markdown files:
+```zsh
+brew install markdownlint-cli
+```
+
 ## Introduction
 
 A starting point for Neovim that is:
